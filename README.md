@@ -15,23 +15,27 @@ I'm also a part-time Web Specialist at **Bhinneka Realty**, focusing on web supp
 I am currently studying Computer and Information Sciences at **Universitas Bina Sarana Informatika** and always looking for full-time or remote opportunities to grow my skills and deliver excellent results.
 
 🧠 I work mostly with:
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+%2B+PHP+Backend+Systems;AES+License+Key+Encryption;API+Auth+%26+Rate+Limit+Logic;Firebase%2C+MySQL%2C+Redis+Integration;Monitoring+via+Discord+Bots" alt="Typing SVG" /> </p>
 - 🛠️ Laravel + PHP for backend systems
 - 🔐 API authentication & AES-encrypted license key handling
 - ⚙️ Redis, Firebase, MySQL, and custom rate-limiting logic
 - 🤖 Discord bot integration for monitoring and automation
 
 📦 Highlights of what I've built:
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1100&color=E6D300&center=true&vCenter=true&width=550&lines=🎯+Full+license+system+%2B+tracking;📊+Credit+monitoring+via+DB+listener;🔒+File+access+gated+by+Discord;📘+Logs+auto-formatted+for+embed" alt="Typing Cool Stuff" /> </p>
 - A full-featured license system with validation, expiration, and tracking
 - Credit monitoring via real-time database listeners
 - Discord-based access control for secure file viewing
 - Logging system for sensitive transaction records, complete with embed-ready formatting
 
 🧩 I like working on projects that:
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=550&lines=🧠+Smart+architecture+over+flashy+UI;⚡+Automation+beats+manual+any+day;📡+Handling+real+user+flows+%E2%80%94+auth,+limits,+data+sync" alt="Typing Projects I Like" /> </p>
 - Require smart architecture instead of just flashy UI
 - Prioritize automation and clean code over repetitive manual work
 - Handle real user interactions — authentication, limits, data syncs
 
 🌱 Currently learning more about:
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9B5DE5&center=true&vCenter=true&width=500&lines=🔐+Security+in+Distributed+Systems;📦+Scalable+Design+Patterns+(Laravel);⏱️+Cooldown+%26+Rate+Limit+at+API+Level" alt="Typing Learning" /> </p>
 - Security in distributed systems
 - Scalable design patterns in Laravel
 - Rate-limit & cooldown implementations at API level

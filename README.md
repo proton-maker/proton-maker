@@ -14,6 +14,27 @@ I'm also a part-time Web Specialist at **Bhinneka Realty**, focusing on web supp
 
 I am currently studying Computer and Information Sciences at **Universitas Bina Sarana Informatika** and always looking for full-time or remote opportunities to grow my skills and deliver excellent results.
 
+🧠 I work mostly with:
+- 🛠️ Laravel + PHP for backend systems
+- 🔐 API authentication & AES-encrypted license key handling
+- ⚙️ Redis, Firebase, MySQL, and custom rate-limiting logic
+- 🤖 Discord bot integration for monitoring and automation
+
+📦 Highlights of what I've built:
+- A full-featured license system with validation, expiration, and tracking
+- Credit monitoring via real-time database listeners
+- Discord-based access control for secure file viewing
+- Logging system for sensitive transaction records, complete with embed-ready formatting
+
+🧩 I like working on projects that:
+- Require smart architecture instead of just flashy UI
+- Prioritize automation and clean code over repetitive manual work
+- Handle real user interactions — authentication, limits, data syncs
+
+🌱 Currently learning more about:
+- Security in distributed systems
+- Scalable design patterns in Laravel
+- Rate-limit & cooldown implementations at API level
 ---
 
 ## Skills & Tech Stack
@@ -50,6 +71,15 @@ I am currently studying Computer and Information Sciences at **Universitas Bina 
 - Version Control  
 - Basic knowledge of Generative AI  
 - Basic knowledge of Microsoft Azure
+
+---
+
+### 🤝 Mindset
+
+- Problem solver who loves debugging and writing clean code  
+- Curious learner always ready to explore new tools and frameworks  
+- Focus on reliability and maintainability over quick hacks  
+- Passionate about security and automation to reduce repetitive tasks  
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi, I’m Rizky Alfi 👋  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=007bff&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+SEO+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&pause=1000&color=007bff&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+SEO+Specialist" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proton-maker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
@@ -16,7 +16,7 @@ I am currently studying Computer and Information Sciences at **Universitas Bina 
 
 ## I work mostly with:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+%2B+PHP+Backend+Systems;AES+License+Key+Encryption;API+Auth+%26+Rate+Limit+Logic;Firebase%2C+MySQL%2C+Redis+Integration;Monitoring+via+Discord+Bots" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+%2B+PHP+Backend+Systems;AES+License+Key+Encryption;API+Auth+%26+Rate+Limit+Logic;Firebase%2C+MySQL%2C+Redis+Integration;Monitoring+via+Discord+Bots" alt="Tech Stack" />
 </p>
 
 - 🛠️ Laravel + PHP for backend systems
@@ -26,7 +26,7 @@ I am currently studying Computer and Information Sciences at **Universitas Bina 
 
 ## Highlights of what I've built:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E6D300&center=true&vCenter=true&width=600&lines=🎯+License+validation+%2B+tracking;📊+Credit+monitoring+via+DB+listener;🔒+Discord-gated+file+access;📘+Auto-formatted+logs" alt="Features" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&pause=1000&color=E6D300&center=true&vCenter=true&width=600&lines=🎯+License+validation+%2B+tracking;📊+Credit+monitoring+via+DB+listener;🔒+Discord-gated+file+access;📘+Auto-formatted+logs" alt="Features" />
 </p>
 
 - A full-featured license system with validation, expiration, and tracking
@@ -36,7 +36,7 @@ I am currently studying Computer and Information Sciences at **Universitas Bina 
 
 ## I like working on projects that:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=🧠+Smart+architecture+over+flashy+UI;⚡+Automation+beats+manual+any+day;📡+Handling+real+user+flows" alt="Work Style" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=🧠+Smart+architecture+over+flashy+UI;⚡+Automation+beats+manual+any+day;📡+Handling+real+user+flows" alt="Work Style" />
 </p>
 
 - Require smart architecture instead of just flashy UI
@@ -45,7 +45,7 @@ I am currently studying Computer and Information Sciences at **Universitas Bina 
 
 ## Currently learning more about:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=🔐+Distributed+System+Security;📦+Scalable+Design+Patterns;⏱️+Cooldown+%26+API+Rate+Limits" alt="Learning" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=🔐+Distributed+System+Security;📦+Scalable+Design+Patterns;⏱️+Cooldown+%26+API+Rate+Limits" alt="Learning" />
 </p>
 
 - Security in distributed systems

@@ -23,7 +23,7 @@ I am currently studying Computer and Information Sciences at **Universitas Bina 
 - 🤖 Discord bot integration for monitoring and automation
 
 ## Highlights of what I've built:
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1100&color=E6D300&center=true&vCenter=true&width=550&lines=🎯+Full+license+system+%2B+tracking;📊+Credit+monitoring+via+DB+listener;🔒+File+access+gated+by+Discord;📘+Logs+auto-formatted+for+embed" alt="Typing Cool Stuff" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1100&color=E6D300&center=true&vCenter=true&width=550&lines=🎯+Full+license+system+%2B+tracking;📊+Credit+monitoring+via+DB+listener;🔒+File+access+gated+by+Discord;📘+Logs+auto-formatted+for+embed" alt="Typing Cool Stuff" /> </p>
 
 - A full-featured license system with validation, expiration, and tracking
 - Credit monitoring via real-time database listeners
@@ -31,14 +31,14 @@ I am currently studying Computer and Information Sciences at **Universitas Bina 
 - Logging system for sensitive transaction records, complete with embed-ready formatting
 
 ## I like working on projects that:
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=550&lines=🧠+Smart+architecture+over+flashy+UI;⚡+Automation+beats+manual+any+day;📡+Handling+real+user+flows+%E2%80%94+auth,+limits,+data+sync" alt="Typing Projects I Like" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=550&lines=🧠+Smart+architecture+over+flashy+UI;⚡+Automation+beats+manual+any+day;📡+Handling+real+user+flows+%E2%80%94+auth,+limits,+data+sync" alt="Typing Projects I Like" /> </p>
 
 - Require smart architecture instead of just flashy UI
 - Prioritize automation and clean code over repetitive manual work
 - Handle real user interactions — authentication, limits, data syncs
 
 ## Currently learning more about:
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9B5DE5&center=true&vCenter=true&width=500&lines=🔐+Security+in+Distributed+Systems;📦+Scalable+Design+Patterns+(Laravel);⏱️+Cooldown+%26+Rate+Limit+at+API+Level" alt="Typing Learning" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9B5DE5&center=true&vCenter=true&width=500&lines=🔐+Security+in+Distributed+Systems;📦+Scalable+Design+Patterns+(Laravel);⏱️+Cooldown+%26+Rate+Limit+at+API+Level" alt="Typing Learning" /> </p>
 
 - Security in distributed systems
 - Scalable design patterns in Laravel

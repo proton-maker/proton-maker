@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&pause=1000&color=007bff&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+SEO+Specialist" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proton-maker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-</p>
 
 ---
 
